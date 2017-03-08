@@ -1,5 +1,5 @@
 # Blockstack-CLI (Alpine)
-This is an Alpine Linux instance of the Blockstack CLI.
+This is an Alpine Linux Docker instance of the Blockstack CLI.
 
 ## To Run
 `docker run -it sorrell/blockstack-cli-alpine`
